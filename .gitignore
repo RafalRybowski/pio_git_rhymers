@@ -1,0 +1,6 @@
+*.pydevproject
+.project
+.metadata
+bin/**
+./src/*/*.iml
+.idea
